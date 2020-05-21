@@ -6,6 +6,7 @@ def solution(a)
       b[x] = true
     end
   end
+  p b
   b.each_with_index{ |x,i|
   if x != true
     return i if i != 0
@@ -15,3 +16,7 @@ def solution(a)
   }
   1
 end
+
+p solution( [1, 3, 6, 4, 1, 2])
+p solution([1,2,3])
+p solution([-1,-3])

@@ -15,6 +15,7 @@ def solution(n, a)
       min = max
     end
   end
+  p b
   b.each_index do |i|
     b[i] = min if b[i] < min
   end
