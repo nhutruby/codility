@@ -12,4 +12,4 @@ def solution(a, b, k)
   p aa
   p bb-aa
 end
-solution(3,6,3)
+p solution(3,6,3)

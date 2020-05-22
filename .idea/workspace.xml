@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9850e395-165d-4384-857f-c218f753949c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Frogjmp.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryGap.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EpigramonFailure.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSliceSum.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Palindromes.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Romannumerals.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CyclicRotation.rb" beforeDir="false" afterPath="$PROJECT_DIR$/CyclicRotation.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxCounters.rb" beforeDir="false" afterPath="$PROJECT_DIR$/MaxCounters.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MissingInteger.rb" beforeDir="false" afterPath="$PROJECT_DIR$/MissingInteger.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brackets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Brackets.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDiv.rb" beforeDir="false" afterPath="$PROJECT_DIR$/CountDiv.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dominator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/dominator.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +40,27 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Ruby.MissingInteger">
-    <configuration name="CyclicRotation" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="IRB console.IRB console: codility">
+    <configuration name="IRB console: codility" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+      <module name="codility" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$APPLICATION_HOME_DIR$/plugins/ruby/rb/testing/runner/irb.rb" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--simple-prompt" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EpigramonFailure" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="codility" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -53,11 +74,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/CyclicRotation.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/EpigramonFailure.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="Frogjmp" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="Palindromes" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="codility" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -71,11 +92,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Frogjmp.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Palindromes.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="MaxCounters" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="Reversingcoins" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="codility" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -89,11 +110,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/MaxCounters.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Reversingcoins.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="MissingInteger" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="Romannumerals" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="codility" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -107,35 +128,17 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/MissingInteger.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TapeEquilibrium" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="codility" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/TapeEquilibrium.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Romannumerals.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.MissingInteger" />
-        <item itemvalue="Ruby.MaxCounters" />
-        <item itemvalue="Ruby.TapeEquilibrium" />
-        <item itemvalue="Ruby.Frogjmp" />
-        <item itemvalue="Ruby.CyclicRotation" />
+        <item itemvalue="IRB console.IRB console: codility" />
+        <item itemvalue="Ruby.Romannumerals" />
+        <item itemvalue="Ruby.Palindromes" />
+        <item itemvalue="Ruby.EpigramonFailure" />
+        <item itemvalue="Ruby.Reversingcoins" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +157,8 @@
       <workItem from="1565750270613" duration="442000" />
       <workItem from="1571227462757" duration="961000" />
       <workItem from="1589961698153" duration="6059000" />
-      <workItem from="1590029332519" duration="2964000" />
+      <workItem from="1590029332519" duration="15021000" />
+      <workItem from="1590114689953" duration="7738000" />
     </task>
     <servers />
   </component>
@@ -174,36 +178,48 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1589968248965">
+    <state width="1248" height="148" key="GridCell.Tab.0.bottom" timestamp="1590122606214">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1589968248965" />
-    <state width="1248" height="172" key="GridCell.Tab.0.center" timestamp="1589968248964">
+    <state width="1248" height="148" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1590122606214" />
+    <state width="1248" height="148" key="GridCell.Tab.0.center" timestamp="1590122606213">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1589968248964" />
-    <state width="1248" height="172" key="GridCell.Tab.0.left" timestamp="1589968248964">
+    <state width="1248" height="148" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1590122606213" />
+    <state width="1248" height="148" key="GridCell.Tab.0.left" timestamp="1590122606213">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1589968248964" />
-    <state width="1248" height="172" key="GridCell.Tab.0.right" timestamp="1589968248965">
+    <state width="1248" height="148" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1590122606213" />
+    <state width="1248" height="148" key="GridCell.Tab.0.right" timestamp="1590122606214">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1589968248965" />
-    <state x="409" y="136" width="620" height="522" key="find.popup" timestamp="1589966599534">
+    <state width="1248" height="148" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1590122606214" />
+    <state x="329" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590122582208">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="409" y="136" width="620" height="522" key="find.popup/72.27.1294.741@72.27.1294.741" timestamp="1589966599533" />
+    <state x="329" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/72.27.1294.741@72.27.1294.741" timestamp="1590122582208" />
+    <state x="409" y="136" width="620" height="522" key="find.popup" timestamp="1590120273367">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="409" y="136" width="620" height="522" key="find.popup/72.27.1294.741@72.27.1294.741" timestamp="1590120273367" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/codility@Frogjmp.rcov" NAME="Frogjmp Coverage Results" MODIFIED="1589967188646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@dominator.rcov" NAME="dominator Coverage Results" MODIFIED="1590055780351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
     <SUITE FILE_PATH="coverage/codility@ElementstoLeft.rcov" NAME="ElementstoLeft Coverage Results" MODIFIED="1571227781418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
-    <SUITE FILE_PATH="coverage/codility@TapeEquilibrium.rcov" NAME="TapeEquilibrium Coverage Results" MODIFIED="1589968248939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
-    <SUITE FILE_PATH="coverage/codility@IRB_console__codility.rcov" NAME="IRB console: codility Coverage Results" MODIFIED="1589962970370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@Reversingcoins.rcov" NAME="Reversingcoins Coverage Results" MODIFIED="1590059422080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@test3.rcov" NAME="Palindromes Coverage Results" MODIFIED="1590120119842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
     <SUITE FILE_PATH="coverage/codility@boards.rcov" NAME="boards Coverage Results" MODIFIED="1565608099701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@Nesting.rcov" NAME="Nesting Coverage Results" MODIFIED="1590053713536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@CyclicRotation.rcov" NAME="CyclicRotation Coverage Results" MODIFIED="1589967181551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@test2.rcov" NAME="test2 Coverage Results" MODIFIED="1590122520578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@test1.rcov" NAME="test1 Coverage Results" MODIFIED="1590119492398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@TapeEquilibrium.rcov" NAME="TapeEquilibrium Coverage Results" MODIFIED="1589968248939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@CountDiv.rcov" NAME="CountDiv Coverage Results" MODIFIED="1590040196163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@Brackets.rcov" NAME="Brackets Coverage Results" MODIFIED="1590053029956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
+    <SUITE FILE_PATH="coverage/codility@IRB_console__codility.rcov" NAME="IRB console: codility Coverage Results" MODIFIED="1590122536441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
     <SUITE FILE_PATH="coverage/codility@MaxCounters.rcov" NAME="MaxCounters Coverage Results" MODIFIED="1590037251189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
     <SUITE FILE_PATH="coverage/codility@MissingInteger.rcov" NAME="MissingInteger Coverage Results" MODIFIED="1590037496748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
     <SUITE FILE_PATH="coverage/codility@binarySearch.rcov" NAME="binarySearch Coverage Results" MODIFIED="1565606463709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
-    <SUITE FILE_PATH="coverage/codility@CyclicRotation.rcov" NAME="CyclicRotation Coverage Results" MODIFIED="1589967181551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codility" />
   </component>
 </project>

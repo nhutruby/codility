@@ -32,4 +32,4 @@ def solution(a)
   return -1
 
 end
-p solution([])
+p solution([3,4,3,2,3,-1,3,3])
