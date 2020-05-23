@@ -1,5 +1,6 @@
 def solution(s)
   sum = 0
+  s = s.gsub(/[^[:alpha:]]/ , '')
   s.split('').each do |c|
     if %w[a e i o u].include? c
       p c.ord

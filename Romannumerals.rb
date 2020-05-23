@@ -28,7 +28,7 @@ end
 
 occurence_count = 0
 
-(1..10).each { |i|
+(1..2660).each { |i|
   occurence_count += count_occurrences_in_roman_notation(i, 'X', arabic_to_roman)
 }
 p occurence_count
