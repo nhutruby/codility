@@ -17,8 +17,6 @@ def count_occurrences_in_roman_notation(number, needle, arabic_to_roman)
 
   arabic_to_roman.each { |arabic_digit, roman_digit|
     while number >= arabic_digit do
-      p roman_digit
-      p roman_digit.count(needle)
       count += roman_digit.count(needle)
       number -= arabic_digit
     end
